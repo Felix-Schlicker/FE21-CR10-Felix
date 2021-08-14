@@ -1,0 +1,12 @@
+#list img{
+    max-width: 160px;
+}
+
+.available{
+    color: green;
+
+}
+
+.reserved{
+    color: red;
+}
